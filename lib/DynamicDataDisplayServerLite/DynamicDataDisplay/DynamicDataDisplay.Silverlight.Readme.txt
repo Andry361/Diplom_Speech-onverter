@@ -1,0 +1,17 @@
+﻿'Dynamic Data Display for Silverlight' is a library of Silverlight user controls for visualization of large amounts
+of dynamic data. Current version supports line graphs, heat maps and very flexible marker graphs.
+
+Homepage - http://dynamicdatadisplay.codeplex.com
+
+If you have questions, bug reports or feature requests, please don't hesitate to post them at 'Discussions' 
+page at our codeplex site.
+
+DynamicDataDisplay.Silverlight.dll - Main class library
+
+DynamicDataDisplay.BingMaps.Silverlight.dll - Control for integraion of D3 plots in BingMaps
+
+DynamicDataDisplay.InteractiveSDK.html - Application that gathers all examples and tutorials
+
+DynamicDataDisplay.Silverlight.chm - class library help.
+
+D3 Architecture Overview.pdf - overview of class library design and algorithms.

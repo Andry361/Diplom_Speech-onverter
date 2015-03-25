@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DynamicDataDisplay.BingMaps.Silverlight</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.Research.DynamicDataDisplay.BingMapsPlot">
+            <summary>
+            Control for plotting data in geographical coordinates over Bing Maps.
+            This control should be put into Children collection of Bing Maps MapControl. Plot coordinates
+            (x,y) are treated as longitude and latitude.
+            </summary>
+        </member>
+        <member name="F:Microsoft.Research.DynamicDataDisplay.BingMapsPlot.entireWorld">
+            <summary>Canvas spreading from (-85,-180) to (85, 180)</summary>
+        </member>
+        <member name="M:Microsoft.Research.DynamicDataDisplay.BingMapsPlot.#ctor">
+            <summary>
+            Initializes a new instance of <see cref="T:Microsoft.Research.DynamicDataDisplay.BingMapsPlot"/> class. Assigns
+            instance of <see cref="T:Microsoft.Research.DynamicDataDisplay.MercatorTransform"/> to <see cref="T:Microsoft.Research.DynamicDataDisplay.DataTransform"/> property.
+            </summary>
+        </member>
+    </members>
+</doc>
